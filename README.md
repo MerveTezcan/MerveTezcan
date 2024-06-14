@@ -2,7 +2,7 @@
 <h3 align="center">A Data Scienctist from Türkiye</h3>
 
 <h3 align="center"> 🔭 I’m currently working on data science and data analysis </h3>
-<h3 align="center"> 📝 I’m currently learning NLP, time series and deep learning </h3>
+<h3 align="center"> 📝 I’m currently learning time series and deep learning </h3>
 <h3 align="left">Languages and Tools :</h3>
  
 
